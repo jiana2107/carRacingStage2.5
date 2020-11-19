@@ -41,4 +41,7 @@ function draw(){
   if(gameState === 2){
     game.end();
   }
+
 }
+
+
